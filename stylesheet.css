@@ -1,0 +1,14 @@
+body {
+    background-color: #92a8d1;
+ }
+ .center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ }
+ .header {
+    padding: 60px;
+  text-align: center;
+  color: black
+ }
